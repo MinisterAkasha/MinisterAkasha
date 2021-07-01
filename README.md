@@ -16,5 +16,4 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-bage&logo=Bootstrap)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-bage&logo=C)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinisterAkasha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinisterAkasha&layout=compact)
