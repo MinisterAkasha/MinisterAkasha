@@ -1,9 +1,8 @@
-# Меня зовут Илья Гусев
+## Обо мне:
+### Я начинающий Front-end разработчик
+### В данный момент прохожу обучение в IT Школе 21 от Сбербанка
 
-## Я начинающий Front-end разработчик
-## В данный момент прохожу обучение в IT Школе 21 от Сбербанка
-
-### 📧  Mail me: gusevworkmail@gmail.com
+### 📧 Mail: gusevworkmail@gmail.com
 ### 📱 Telegram: @MinisterIlya
 ### Языки и Технологии
 ###
@@ -14,3 +13,5 @@
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-bage&logo=css3)
 ![REST API](https://img.shields.io/badge/-REST_API-090909?style=for-the-bage)
 ![REST API](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-bage&logo=Bootstrap)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinisterAkasha)](https://github.com/anuraghazra/github-readme-stats)
