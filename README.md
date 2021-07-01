@@ -14,4 +14,5 @@
 ![REST API](https://img.shields.io/badge/-REST_API-090909?style=for-the-bage)
 ![REST API](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-bage&logo=Bootstrap)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinisterAkasha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinisterAkasha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
