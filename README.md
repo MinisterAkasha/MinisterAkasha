@@ -1,16 +1,16 @@
-### Hi there 👋
+# Меня зовут Илья Гусев
 
-<!--
-**MinisterAkasha/MinisterAkasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Я начинающий Front-end разработчик
+## В данный момент прохожу обучение в IT Школе 21 от Сбербанка
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📧  Mail me: gusevworkmail@gmail.com
+### 📱 Telegram: @MinisterIlya
+### Языки и Технологии
+###
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-bage&logo=JavaScript)
+![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-bage&logo=React)
+![Redus](https://img.shields.io/badge/-Redux-090909?style=for-the-bage&logo=Redux)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-bage&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-bage&logo=css3)
+![REST API](https://img.shields.io/badge/-REST_API-090909?style=for-the-bage)
+![REST API](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-bage&logo=Bootstrap)
